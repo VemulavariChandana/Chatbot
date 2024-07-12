@@ -19,5 +19,5 @@ This is a simple chatbot built using the Flask framework and Gemini API. It hand
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flask-chatbot-gemini.git
+git clone https://github.com/vemulavarichandana/flask-chatbot-gemini.git
 cd flask-chatbot-gemini
